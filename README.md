@@ -25,7 +25,7 @@ wget https://raw.githubusercontent.com/MoveAngel/One4uBot/sql-extended/terminal_
 ```
 
 ## How To Host?
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/iPrfgrmmr/Laowomaru/tree/master"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/iPrfgrmmr/Laowomaru/tree/newbra"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ## Credits
 Thanks: 
